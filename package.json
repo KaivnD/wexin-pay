@@ -45,6 +45,7 @@
     }
   ],
   "devDependencies": {
+    "@types/xml2js": "^0.4.7",
     "@size-limit/preset-small-lib": "^4.9.1",
     "husky": "^4.3.6",
     "size-limit": "^4.9.1",
@@ -53,6 +54,7 @@
     "typescript": "^4.1.3"
   },
   "dependencies": {
+    "urllib": "^2.36.1",
     "xml2js": "^0.4.23"
   }
 }
